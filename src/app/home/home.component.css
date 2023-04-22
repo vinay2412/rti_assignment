@@ -1,0 +1,22 @@
+@media (max-width: 600px){
+    body {
+      background-color: rgb(168, 166, 12);
+    }
+
+    h1{
+        color: red;
+    }
+
+    .bottom{
+        position: absolute;
+        top: 5px;
+        width: 100%;
+        margin-top: 65px;
+    }
+
+    .top{
+      margin-top: 460px;
+      text-align: center;
+      width: 100%;
+    }
+  }
