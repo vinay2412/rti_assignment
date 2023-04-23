@@ -39,3 +39,14 @@ i.fa.fa-circle {
   top: 65px;
   left: 90px;
 }
+form.form-control {
+  width: 50%;
+  height: 350px;
+  display: inline-grid;
+  align-items: center;
+  margin: 0 auto;
+}
+button.btn.btn-primary {
+  margin: 0 145px;
+  font-size: 12px;
+}
