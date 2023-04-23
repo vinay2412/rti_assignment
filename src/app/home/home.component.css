@@ -1,22 +1,41 @@
-@media (max-width: 600px){
-    body {
-      background-color: rgb(168, 166, 12);
-    }
-
-    h1{
-        color: red;
-    }
-
-    .bottom{
-        position: absolute;
-        top: 5px;
-        width: 100%;
-        margin-top: 65px;
-    }
-
-    .top{
-      margin-top: 460px;
-      text-align: center;
-      width: 100%;
-    }
+@media (max-width: 600px) {
+  body {
+    background-color: rgb(168, 166, 12);
   }
+
+  h1 {
+    color: red;
+  }
+
+  .bottom {
+    position: absolute;
+    top: 5px;
+    width: 100%;
+    margin-top: 65px;
+  }
+
+  .top {
+    margin-top: 460px;
+    text-align: center;
+    width: 100%;
+  }
+
+}
+
+.bottom {
+position: relative;
+top: 65px;
+left: 100px;
+}
+
+i.fa.fa-circle {
+  position: relative;
+  right: 8px;
+  font-size: 5px;
+  bottom: 4px;
+}
+.customize.col-md {
+  position: relative;
+  top: 65px;
+  left: 90px;
+}
