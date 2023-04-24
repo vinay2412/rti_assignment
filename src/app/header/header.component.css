@@ -120,5 +120,6 @@
 
   .nav-bar li a {
     text-align: left;
+    font-size: 14px;
   }
 }
