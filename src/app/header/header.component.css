@@ -26,6 +26,7 @@
   color: #fff;
   font-family: "Segoe UI";
   font-weight: normal;
+  padding: 0 65px;
 }
 
 .nav-bar .logo img {
@@ -119,27 +120,5 @@
 
   .nav-bar li a {
     text-align: left;
-  }
-}
-
-@media (min-width: 1200px) {
-  #one-app .list {
-    width: 60%;
-  }
-
-  #video .thumbnail {
-    width: 500px;
-  }
-
-  #pricing .plans .plan {
-    box-shadow: -4px -4px 40px rgba(0, 0, 0, 0.2);
-  }
-
-  #pricing .offer {
-    box-shadow: -4px -4px 40px rgba(0, 0, 0, 0.2);
-  }
-
-  #set_passcode li {
-    color: #9e9e9e;
   }
 }
