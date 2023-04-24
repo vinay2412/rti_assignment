@@ -1,3 +1,17 @@
+
+D:\Angular\DOCOMO>npm install -g firebase-tools
+D:\Angular\DOCOMO>firebase login
+Already logged in as vinodprajapatimj@gmail.com
+D:\Angular\DOCOMO>firebase init  
+? Are you ready to proceed? Yes
+? What do you want to use as your public directory? dist/DOCOMO
+? Configure as a single-page app (rewrite all urls to /index.html)? Yes
+? Set up automatic builds and deploys with GitHub? No
+? File dist/DOCOMO/index.html already exists. Overwrite? No
+i  Skipping write of dist/DOCOMO/index.html
+D:\Angular\DOCOMO>firebase deploy   
+Hosting URL: https://docomo-angular.web.app
+
 # RtlProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.

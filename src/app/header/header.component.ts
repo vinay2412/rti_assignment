@@ -7,4 +7,16 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
 
+  constructor(){}
+
+  navbarSupportedContent() {
+    alert('Hii');
+    // let navbar = document.querySelector(".nav-bar");
+    // if (navbar.classList.contains("expand")) {
+    //   navbar.classList.remove("expand")
+    // }
+    // else {
+    //   navbar.classList.add("expand")
+    // }
+  }
 }
